@@ -1,0 +1,176 @@
+﻿element_id_RealWorld,device_id,MAC,name,source,groupname,Area,Pmax,Efficiency
+EL01A,1,000D6F00029C369A,Mithras1,femtogridmithras,,2.256995,303.45,0.134448681
+EL01B,2,000D6F00029C36FB,Mithras2,femtogridmithras,,2.256995,303.57,0.134501849
+EL02A,3,000D6F00029C36C9,Mithras3,femtogridmithras,,2.256995,301.34,0.133513809
+EL02B,4,000D6F00029C3687,Mithras4,femtogridmithras,,2.256995,304.19,0.13477655
+EL03A,5,000D6F00029C383C,Mithras5,femtogridmithras,,2.256995,310.87,0.137736238
+EL03B,6,000D6F00029C3697,Mithras6,femtogridmithras,,2.256995,310.54,0.137590026
+EL04A,7,000D6F00029C3622,Mithras7,femtogridmithras,,2.256995,306.34,0.135729144
+EL04B,8,000D6F00029C36B6,Mithras8,femtogridmithras,,2.256995,299.98,0.132911238
+EL05A,9,000D6F00029C3698,Mithras9,femtogridmithras,,2.256995,313.44,0.13887492
+EL05B,10,000D6F00029C3833,Mithras10,femtogridmithras,,2.256995,313.36,0.138839475
+EL06A,11,000D6F00029C371B,Mithras11,femtogridmithras,,2.256995,312.37,0.138400838
+EL06B,12,000D6F00029C36D1,Mithras12,femtogridmithras,,2.256995,312.1,0.13828121
+EL07A,13,000D6F00029C36C1,Mithras13,femtogridmithras,,2.256995,302.87,0.134191702
+EL07B,14,000D6F00029C371E,Mithras14,femtogridmithras,,2.256995,305.2,0.135224048
+EL08A,15,000D6F00029C3853,Mithras15,femtogridmithras,,2.256995,303.82,0.134612615
+EL08B,16,000D6F00029C3691,Mithras16,femtogridmithras,,2.256995,302.17,0.133881555
+EL09A,17,000D6F00029C3859,Mithras17,femtogridmithras,,2.256995,302.73,0.134129672
+EL09B,18,000D6F00029C3716,Mithras18,femtogridmithras,,2.256995,305.72,0.135454443
+EL10A,19,000D6F00029C3858,Mithras19,femtogridmithras,,2.256995,299.96,0.132902377
+EL10B,20,000D6F00029C3877,Mithras20,femtogridmithras,,2.256995,303.62,0.134524002
+EL11A,21,000D6F00029C36BB,Mithras21,femtogridmithras,,2.256995,304.66,0.134984792
+EL11B,22,000D6F00029C387C,Mithras22,femtogridmithras,,2.256995,305.63,0.135414567
+EL12A,23,000D6F00029C3711,Mithras23,femtogridmithras,,2.256995,313.2,0.138768584
+EL12B,24,000D6F00029C368F,Mithras24,femtogridmithras,,2.256995,311.58,0.138050815
+EL13A,25,000D6F00029C386B,Mithras25,femtogridmithras,,2.256995,299.7,0.132787179
+EL13B,26,000D6F00029C3624,Mithras26,femtogridmithras,,2.256995,298.67,0.13233082
+EL14A,27,000D6F00029C36D8,Mithras27,femtogridmithras,,2.256995,297.8,0.131945352
+EL14B,28,000D6F00029C367E,Mithras28,femtogridmithras,,2.256995,303.34,0.134399943
+EL15A,29,000D6F00029C36B8,Mithras29,femtogridmithras,,2.256995,303.68,0.134550586
+EL15B,30,000D6F00029C36AF,Mithras30,femtogridmithras,,2.256995,306.98,0.136012707
+EL16A,31,000D6F00029C36C8,Mithras31,femtogridmithras,,2.256995,303.42,0.134435389
+EL16B,32,000D6F00029C36CE,Mithras32,femtogridmithras,,2.256995,303.46,0.134453111
+EL17A,33,000D6F00029C36CC,Mithras33,femtogridmithras,,2.256995,300,0.1329201
+EL17B,34,000D6F00029C36D2,Mithras34,femtogridmithras,,2.256995,302,0.133806234
+EL18A,35,000D6F00029C3625,Mithras35,femtogridmithras,,2.256995,311.38,0.137962202
+EL18B,36,000D6F00029C3718,Mithras36,femtogridmithras,,2.256995,309.64,0.137191265
+EL19A,37,000D6F00029C3704,Mithras37,femtogridmithras,,2.256995,309.24,0.137014039
+EL19B,38,000D6F00029C36C6,Mithras38,femtogridmithras,,2.256995,309.94,0.137324185
+EL20A,39,000D6F00029C36B9,Mithras39,femtogridmithras,,2.256995,304.61,0.134962638
+EL20B,40,000D6F00029C36EA,Mithras40,femtogridmithras,,2.256995,306.75,0.135910802
+EL21A,41,000D6F00029C3713,Mithras41,femtogridmithras,,2.256995,302.65,0.134094227
+EL21B,42,000D6F00029C36D0,Mithras42,femtogridmithras,,2.256995,299.91,0.132880223
+EL22A,43,000D6F00029C3841,Mithras43,femtogridmithras,,2.256995,302.76,0.134142964
+EL22B,44,000D6F00029C371A,Mithras44,femtogridmithras,,2.256995,302.57,0.134058782
+EL23A,45,000D6F00029C3700,Mithras45,femtogridmithras,,2.256995,303.26,0.134364498
+EL23B,46,000D6F00029C382F,Mithras46,femtogridmithras,,2.256995,306.26,0.135693699
+EL24A,47,000D6F00029C36BF,Mithras47,femtogridmithras,,2.256995,,
+EL24B,48,000D6F00029C385F,Mithras48,femtogridmithras,,2.256995,,
+EL25A,49,000D6F00029C3855,Mithras49,femtogridmithras,,2.256995,296.51,0.131373796
+EL25B,50,000D6F00029C3839,Mithras50,femtogridmithras,,2.256995,299.37,0.132640967
+EL26A,51,000D6F00029C3720,Mithras51,femtogridmithras,,2.256995,302.84,0.13417841
+EL26B,52,000D6F00029C3833,Mithras52,femtogridmithras,,2.256995,304.79,0.13504239
+EL27A,53,000D6F00029C36B6,Mithras53,femtogridmithras,,2.256995,300.6,0.13318594
+EL27B,54,000D6F00029C36E3,Mithras54,femtogridmithras,,2.256995,300.16,0.13299099
+EL28A,55,000d6f0001a2b1fe,Mithras55,femtogridmithras,,0.996398,207.24,0.207989177
+EL28B,56,000d6f0001a2b0ab,Mithras56,femtogridmithras,,0.996398,207.31,0.20805943
+EL28C,57,000D6F0001A2b28d,Mithras57,femtogridmithras,,0.996398,208.51,0.209263768
+EL29A,58,000d6f0001a2b0c1,Mithras58,femtogridmithras,,0.996398,205.87,0.206614224
+EL29B,59,000d6f0001a2b1c5,Mithras59,femtogridmithras,,0.996398,206.73,0.207477333
+EL29C,60,000d6f0001a2b0ac,Mithras60,femtogridmithras,,0.996398,202.97,0.203703741
+EL30A,61,000d6f0001a2b260,Mithras61,femtogridmithras,,1.40391,208.51,0.148520917
+EL30B,62,000D6F00029C380F,Mithras62,femtogridmithras,,1.40391,207.31,0.147666161
+EL30C,63,000d6f0001a2b0fc,Mithras63,femtogridmithras,,1.40391,207.24,0.1476163
+EL31C,64,000D6F0001A2B0D0,Mithras64,femtogridmithras,,1.40391,205.87,0.146640454
+,70,000D6F0000E47315,Kratos6,femtogridkratos,,,,
+,71,000D6F0000E470A6,Kratos5,femtogridkratos,,,,
+,72,000D6F0000E4733E,Kratos4,femtogridkratos,,,,
+,73,000D6F0000E4730E,Kratos3,femtogridkratos,,,,
+,74,000D6F0000E4709D,Kratos2,femtogridkratos,,,,
+,75,000D6F0000E4711C,Kratos1,femtogridkratos,,,,
+,80,,KratosSummed,femtogridkratos,,,,
+,81,,Mithras1_summed,femtogridmithras,,,,
+,82,,Mithras2_summed,femtogridmithras,,,,
+,83,,Mithras3_summed,femtogridmithras,,,,
+,84,,APS_summed,APS,,,,
+,85,,Autarco_summed,Autarco,,,,
+,90,19_04677,APS_kWh,LeGrand,kWh_meter,,,
+,91,20_04677,Autarco_kWh,LeGrand,kWh_meter,,,
+,92,21_04680,Dynniq_kWh,LeGrand,kWh_meter,,,
+,100,,216 <Pyrano Total> (VDC),agilent,P,,,
+,101,,217 <Pyrano Diffuse> (VDC),agilent,P,,,
+,102,,218 <Pyrano Sun> (OHM),agilent,P,,,
+,110,,101 <E23 L1> (VDC),agilent,L,,,
+,111,,102 <E23 L2> (VDC),agilent,L,,,
+,112,,103 <E23 L3> (VDC),agilent,L,,,
+,113,,104 <E23 L4> (VDC),agilent,L,,,
+,114,,105 <E23 L5> (VDC),agilent,L,,,
+,115,,106 <E23 L6> (VDC),agilent,L,,,
+,116,,107 <E22 L1> (VDC),agilent,L,,,
+,117,,108 <E22 L2> (VDC),agilent,L,,,
+,118,,109 <E22 L3> (VDC),agilent,L,,,
+,119,,110 <E22 L4> (VDC),agilent,L,,,
+,120,,111 <E22 L5> (VDC),agilent,L,,,
+,121,,112 <E22 L6> (VDC),agilent,L,,,
+,122,,113 <E16 L1> (VDC),agilent,L,,,
+,123,,114 <E16 L2> (VDC),agilent,L,,,
+,124,,115 <E16 L3> (VDC),agilent,L,,,
+,125,,116 <E16 L4> (VDC),agilent,L,,,
+,126,,117 <E16 L5> (VDC),agilent,L,,,
+,127,,118 <E16 L6> (VDC),agilent,L,,,
+,128,,107 <E20 L1> (VDC),agilent,L,,,
+,129,,108 <E20 L2> (VDC),agilent,L,,,
+,130,,109 <E20 L3> (VDC),agilent,L,,,
+,131,,110 <E20 L4> (VDC),agilent,L,,,
+,132,,111 <E20 L5> (VDC),agilent,L,,,
+,133,,112 <E20 L6> (VDC),agilent,L,,,
+,134,,220 <Lref> (VDC),agilent,L,,,
+,135,,219 <Lref> (VDC),agilent,L,,,
+,150,,201 <E23 T1> (C),agilent,T,,,
+,151,,203 <E23 T3> (C),agilent,T,,,
+,152,,204 <E23 T4> (C),agilent,T,,,
+,153,,205 <E23 T5> (C),agilent,T,,,
+,154,,206 <E20 T1> (C),agilent,T,,,
+,155,,207 <E20 T2> (C),agilent,T,,,
+,156,,208 <E20 T3> (C),agilent,T,,,
+,157,,209 <E20 T4> (C),agilent,T,,,
+,158,,210 <E20 T5> (C),agilent,T,,,
+,159,,211 <E16 T1> (C),agilent,T,,,
+,160,,212 <E16 T2> (C),agilent,T,,,
+,161,,213 <E16 T3> (C),agilent,T,,,
+,162,,214 <E16 T4> (C),agilent,T,,,
+,163,,215 <E16 T5> (C),agilent,T,,,
+,164,,219 <E23 T2> (C),agilent,T,,,
+,165,,202 <E23 T2> (C),agilent,T,,,
+,166,,220 <E23 T2> (C),agilent,T,,,
+,167,,101 <E28 T1> (C),agilent,T,,,
+,168,,102 <E28 T2> (C),agilent,T,,,
+,169,,103 <E28 T3> (C),agilent,T,,,
+,170,,104 <E28 T4> (C),agilent,T,,,
+,171,,105 <E28 T5> (C),agilent,T,,,
+,172,,106 <E28 T6> (C),agilent,T,,,
+,173,,107 <E28 T7> (C),agilent,T,,,
+,174,,108 <E28 T8> (C),agilent,T,,,
+,175,,109 <E30 T1> (C),agilent,T,,,
+,176,,110 <E30 T2> (C),agilent,T,,,
+,177,,111 <E30 T3> (C),agilent,T,,,
+,178,,112 <E30 T4> (C),agilent,T,,,
+,179,,113 <E30 T5> (C),agilent,T,,,
+,180,,114 <E30 T6> (C),agilent,T,,,
+,181,,115 <E31 T1> (C),agilent,T,,,
+,182,,116 <E31 T2> (C),agilent,T,,,
+,183,,117 <E31 T3> (C),agilent,T,,,
+,184,,118 <E31 T4> (C),agilent,T,,,
+,185,,119 <E31 T5> (C),agilent,T,,,
+,186,,120 <E31 T6> (C),agilent,T,,,
+,187,,201 <E30 L1> (VDC),agilent,L,,,
+,188,,202 <E30 L2> (VDC),agilent,L,,,
+,189,,203 <E30 L3> (VDC),agilent,L,,,
+,190,,204 <E30 L4> (VDC),agilent,L,,,
+,191,,205 <E30 L5> (VDC),agilent,L,,,
+,192,,206 <E31 L1> (VDC),agilent,L,,,
+,193,,207 <E31 L2> (VDC),agilent,L,,,
+,194,,208 <E31 L3> (VDC),agilent,L,,,
+,195,,209 <E31 L4> (VDC),agilent,L,,,
+,196,,210 <E31 L5> (VDC),agilent,L,,,
+,200,,temp,metpak,T,,,
+,201,,dewpoint,metpak,T,,,
+,205,,airpressure,metpak,O,,,
+,206,,rv,metpak,O,,,
+,207,,rainpulse,metpak,O,,,
+,250,,bicycle_lane1,flir,bicycle,,,
+,251,,bicycle_lane2,flir,bicycle,,,
+,252,,vehicle_lane2,flir,vehicle,,,
+,253,,vehicle_lane1,flir,vehicle,,,
+E31B,300,00058C,Autarco1,Autarco,,1.40391,206.73,0.147253029
+E31A,301,00058A,Autarco2,Autarco,,1.40391,202.97,0.144574795
+E32C,302,00067F,Autarco3,Autarco,,1.40391,205.32,0.146248691
+E32B,303,670,Autarco4,Autarco,,1.40391,204.28,0.145507903
+E32A,304,652,Autarco5,Autarco,,1.40391,206.66,0.147203168
+E33C,305,591,Autarco6,Autarco,,1.40391,206.35,0.146982356
+E33B,306,586,Autarco7,Autarco,,1.40391,207.2,0.147587808
+E33A,320,404000178214-B,APS1,APS,,1.40391,206.65,0.147196045
+E34C,321,404000178214-A,APS2,APS,,1.40391,206.63,0.147181799
+E34B,322,404000178982-B,APS3,APS,,1.40391,206.91,0.147381242
+E34A,323,404000178982-A,APS4,APS,,1.40391,206.66,0.147203168
